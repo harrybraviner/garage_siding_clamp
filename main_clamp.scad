@@ -1,5 +1,5 @@
 stepover_thickness = 9.00;
-rear_clamp_depth = 15.00;
+rear_clamp_depth = 12.50;
 rear_clamp_thickness = 9.00;
 slideover_gap = 58.00;
 outer_plate_thickness = 9.00;
